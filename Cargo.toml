@@ -1,0 +1,12 @@
+[package]
+name = "sketch-2d"
+dscription = "Flexible wgpu 2D compositor"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+
+[dependencies]
+wgpu = "0.16.1"
+unsized-stack = "0.2.0"
+thiserror = "1.0.40"
+fn-store = "1"
