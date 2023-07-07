@@ -3,6 +3,7 @@ name = "sketch-2d"
 dscription = "Flexible wgpu 2D compositor"
 version = "0.1.0"
 edition = "2021"
+authors = ["storycraft <storycraft@pancake.sh>"]
 license = "MIT"
 
 [dependencies]
